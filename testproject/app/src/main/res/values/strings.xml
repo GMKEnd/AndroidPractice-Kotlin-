@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">testproject</string>
+    <string name="text_label">hi</string>
+    <string name="button">Button</string>
+    <string-array name="test_array">
+        <item>test1!</item>
+        <item>test2</item>
+        <item>test3</item>
+        <item>test4</item>
+        <item>test5!</item>
+        <item>1!</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5!</item>
+        <item>来</item>
+        <item>小亮</item>
+        <item>给他整个活儿</item>
+        <item>艹</item>
+        <item>走</item>
+        <item>忽略</item>
+    </string-array>
+</resources>
